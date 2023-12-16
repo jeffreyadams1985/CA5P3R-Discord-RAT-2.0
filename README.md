@@ -1,5 +1,5 @@
-# DiscordRAT 2.0
-Discord Remote Administration Tool fully written in c#.
+# CA5P3R-DiscordRAT 2.0
+ca5p3r-Discord Remote Administration Tool fully written in c#.
 
 This is a RAT controlled over Discord with over 40 post exploitation modules.
 
@@ -76,5 +76,6 @@ Available commands are :
 ```
 
 ## Donation
-### Buy me a coffee!
-BTC: bc1qg4zy8w5swc66k9xg29c2x6ennn5cyv2ytlp0a6
+### BUY ME A COFFEE
+##PAYPAL
+@Jeffreyadams1985
